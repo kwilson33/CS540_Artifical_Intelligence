@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "..\\p1"
+			"path": "."
 		}
-	]
+	],
+	"settings": {}
 }
