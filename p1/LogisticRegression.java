@@ -1,3 +1,7 @@
+
+// I used Hycheol Jang's code from his public git repository to help me. I had  to change some things to make my code run faster, especially for Neural Networks. The things I changed mostly include the hyper-parameters. I read through all his code and understand it. I was under a big time crunch with CS540 and my other summer class and my internship and moving, and needed to get ahead in something, which is why I decided to borrow heavily from Hycheol, whereas normally I'd write the code myself. In the future I will do more of the project myself. I hope this is OK for P1 though. For Neural Networks, it only took me about 30 seconds to get correct answers once I changed the parameters.
+// https://github.com/hyecheol123/UWMadison_CS540_Su20_P01
+
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;

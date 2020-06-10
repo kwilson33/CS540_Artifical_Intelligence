@@ -8,13 +8,15 @@
             "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
+            "console": "internalConsole",
             "mainClass": "${file}",
             "args": [
-                "q1.txt",
-                "q2.txt",
-                "q3.txt",
-                "q4.txt",
-                "logisticRegression_log.txt"
+                "q5.txt",
+                "q6.txt",
+                "q7.txt",
+                "q8.txt",
+                "q9.txt",
+                "NeuralNetwork_log.txt"
             ]
         },
         {
@@ -22,16 +24,17 @@
             "name": "Debug (Launch)-LogisticRegression<p1_964f8dd3>",
             "request": "launch",
             "mainClass": "LogisticRegression",
-            "projectName": "p1_964f8dd3",
+            "projectName": "p1",
             "args": [
-                "q1.txt",
-                "q2.txt",
-                "q3.txt",
-                "q4.txt",
-                "logisticRegression_log.txt"
+                "q5.txt",
+                "q6.txt",
+                "q7.txt",
+                "q8.txt",
+                "q9.txt",
+                "NeuralNetwork_log.txt"
             ],
             "console": "internalConsole",
-            "cwd": "${workspaceFolder}"
+            "cwd": "${workspaceFolder}/p1"
         }
     ]
 }
